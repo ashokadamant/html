@@ -24,4 +24,8 @@ public class StudentOperationsController {
 	public String registerStudent(){
 		return "";
 	}
+	@PostMapping("/register2")
+	public String registerEmployee(){
+		return "employee";
+	}
 }
