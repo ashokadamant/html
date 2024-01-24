@@ -26,6 +26,6 @@ public class StudentOperationsController {
 	}
 	@PostMapping("/register2")
 	public String registerEmployee(){
-		return "employee";
+		return "employees";
 	}
 }
