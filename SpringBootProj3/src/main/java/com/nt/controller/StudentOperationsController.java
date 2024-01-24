@@ -20,4 +20,8 @@ public class StudentOperationsController {
     	
     	return "showresult";
     }
+	@GetMapping("/register1")
+	public String registerStudent(){
+		return "";
+	}
 }
