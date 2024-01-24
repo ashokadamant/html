@@ -10,5 +10,7 @@ class FirstProgram
 			
 		}
 	 System.out.println(java.util.Arrays.toString(s1));
-			}
+
+	 System.out.println(s.toUpperCase());
+	}
 }
