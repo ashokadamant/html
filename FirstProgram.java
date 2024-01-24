@@ -7,6 +7,8 @@ class FirstProgram
 		String[] s1=s.split(" ");
 		for(String s2: s1){
 			System.out.println(s2);
+			
 		}
+	 System.out.println(java.util.Arrays.toString(s1));
 			}
 }
