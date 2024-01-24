@@ -1,1 +1,2 @@
 this is first line of a.txt
+this is second line of a.txt
