@@ -26,6 +26,7 @@ public class StudentOperationsController {
 	}
 	@PostMapping("/register2")
 	public String registerEmployee(){
-		return "employee";
+		return "employee";SpringBootProj3/src/main/java/com/nt/controller/StudentOperationsController.java
+
 	}
 }
